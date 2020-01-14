@@ -1,4 +1,4 @@
-# Assignment 1, Data Science 710
+# Assignment 1, Data Science 
 
 This week's assignment has 2 parts, to be submitted using GitHub:
 
